@@ -46,6 +46,11 @@ Libraries Required
 
 - TinyGPS++
 - SoftwareSerial
+- 
+TinyGPS++ Library GitHub Repository
+
+https://github.com/mikalhart/TinyGPSPlus
+
 
 YouTube Demonstration
 
