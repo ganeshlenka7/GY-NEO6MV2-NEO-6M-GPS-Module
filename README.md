@@ -40,7 +40,7 @@ Pin Connections
 
 Circuit Diagram
 
-![GPS Module Circuit Diagram](GPS_circuit_diagram.png)
+![GPS Module Circuit Diagram](GPS_circuit_diagram.jpg)
 
 Libraries Required
 
